@@ -1,0 +1,16 @@
+# Based on "Adversarial Robustness on Image Classification with k-means"
+
+# Main libraries mentioned in the paper
+scikit-learn
+adversarial-robustness-toolbox
+
+# Common dependencies for a PyTorch project, assumed for ResNet-18 model
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+opencv-python
+
+# cuml
+# cudf

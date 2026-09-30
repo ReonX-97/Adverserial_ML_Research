@@ -1,1 +1,7 @@
 Adv_K_means_img_class/virtual
+__pycache__
+gatebreaker/Gatebreaker.pdf
+gatebreaker/setup.bat
+gatebreaker/.gitignore
+gatebreaker/.venv
+.gitignore
